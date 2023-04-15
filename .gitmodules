@@ -1,0 +1,4 @@
+[submodule "drgt-mx"]
+	path = drgt-mx
+	url = git@git.vauxoo.com:vauxoo/drgt-mx.git
+	branch = 16.0
